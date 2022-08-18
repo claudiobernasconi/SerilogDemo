@@ -242,7 +242,7 @@ ModelManifest.xml
 .fake/
 
 # Config files
-appsettings.json
-appsettings.Development.json
+# appsettings.json
+# appsettings.Development.json
 
 *.pubxml
